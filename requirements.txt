@@ -1,0 +1,4 @@
+emoji==1.2.0
+emojis==0.6.0
+unicode==2.8
+Unidecode==1.2.0
